@@ -4,5 +4,5 @@ metadata:
   name: my-greeting
 spec:
   image: nginx
-  replicas: 2
+  replicas: 1
   greeting: "Hello from operator!"
